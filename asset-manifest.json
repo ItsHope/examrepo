@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ItsHope/examrepo/static/css/main.6a4bc580.css",
-    "main.js": "/ItsHope/examrepo/static/js/main.de1867f3.js",
+    "main.js": "/ItsHope/examrepo/static/js/main.ab82631c.js",
     "static/media/Homepage.png": "/ItsHope/examrepo/static/media/Homepage.40b4b5e48fd7fa7cb775.png",
     "static/media/BlognDesign.png": "/ItsHope/examrepo/static/media/BlognDesign.aaff8d2809128d5a661c.png",
     "static/media/InternetArt.png": "/ItsHope/examrepo/static/media/InternetArt.5c68e3ce46445bdba39b.png",
     "index.html": "/ItsHope/examrepo/index.html",
     "main.6a4bc580.css.map": "/ItsHope/examrepo/static/css/main.6a4bc580.css.map",
-    "main.de1867f3.js.map": "/ItsHope/examrepo/static/js/main.de1867f3.js.map"
+    "main.ab82631c.js.map": "/ItsHope/examrepo/static/js/main.ab82631c.js.map"
   },
   "entrypoints": [
     "static/css/main.6a4bc580.css",
-    "static/js/main.de1867f3.js"
+    "static/js/main.ab82631c.js"
   ]
 }
